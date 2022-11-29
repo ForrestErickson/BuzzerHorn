@@ -6,7 +6,7 @@ A FreeCad project.
 I have made several guesses at shapes to try each time making tweeks for fit to GPAD Version 1 PCB.
 
 Version 3.0  
-![image](https://user-images.githubusercontent.com/5836181/204530050-bb4a7387-5510-4bda-945a-df644aef7c14.png)  
+![image](https://user-images.githubusercontent.com/5836181/204536651-52f1deb7-3420-41a9-9ea4-b9a47d4a39b4.png)
 Version 3.0 Reduce top diamter to about 0.6 inch so will not interfer with LED D201 on GPAD.
 
 Version 2.0  
