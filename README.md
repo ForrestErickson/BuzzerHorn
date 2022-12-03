@@ -26,3 +26,5 @@ This horn is designed for a buzzer part I found at JLCPCB: **https://jlcpcb.com/
 Data sheet for buzzer at: **https://datasheet.lcsc.com/lcsc/1811032111_TDK-PS1240P02BT_C76871.pdf**  
 ![image](https://user-images.githubusercontent.com/5836181/204526125-bdc29536-359c-43d1-9c7f-f91dde45fbc8.png)
 
+# Slicer project and GCODE
+A PrusaSlicer Project file containing various rotations, as well as generated gcode from the same.
