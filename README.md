@@ -5,6 +5,16 @@ A FreeCad project.
 ### Buzzer horn on GPAD assembly
 ![image](https://user-images.githubusercontent.com/5836181/204543966-32a35c15-1148-4263-9631-23105a5c4b57.png)
 
+### First Test Results 20221202
+Test on DUT serial numbers 2.  
+Tested with GPAD version 0.03 Firmware.
+Measurment was made verticaly above the DUT. The DUT was placed on a table top with the transducer pointed up. So the measurement was on axis. 
+Forrest noticed that he could hear Alarms at A2 which he did not hear before.  
+Measure SPL at A0-A5 with and with out the BuzzerHorn.  
+Tested at 10cm from transducter. No enclosure.  
+Here is a plot of the amplitude as measreud by TBD SPL meter.  
+![./measurements/spl-graph-conev3.png](./measurements/spl-graph-conev3.png)
+Note althought the measured SPL for with Buzzer Horn was lower on axis the buzzer could be heard off axis perhaps better.
 
 ### Tagged Version Descriptions
 I have made several guesses at shapes to try each time making tweeks for fit to GPAD Version 1 PCB.
