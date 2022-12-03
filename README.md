@@ -8,6 +8,9 @@ A FreeCad project.
 ### First Test Results 20221202
 Test on DUT serial numbers 2.  
 Tested with GPAD version 0.03 Firmware.
+Version 0.3 firm ware sets the following frequencies for alarms a0 to a5.
+>const int BUZZER_LVL_FREQ_HZ[]= {0,128,256,512,1024,2048};
+
 Measurment was made verticaly above the DUT. The DUT was placed on a table top with the transducer pointed up. So the measurement was on axis. 
 Forrest noticed that he could hear Alarms at A2 which he did not hear before.  
 Measure SPL at A0-A5 with and with out the BuzzerHorn.  
